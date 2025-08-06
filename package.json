@@ -1,0 +1,28 @@
+{
+  "$schema": "http://json.schemastore.org/package",
+  "name": "zhengwu-assistant-frontend",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@heroicons/vue": "^2.2.0",
+    "@tailwindcss/postcss": "^4.1.11",
+    "axios": "^1.11.0",
+    "lucide-vue-next": "^0.536.0",
+    "pinia": "^3.0.3",
+    "vue": "^3.4.21",
+    "vue-router": "^4.5.1"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.11",
+    "vite": "^5.2.0"
+  }
+}
